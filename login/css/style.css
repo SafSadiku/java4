@@ -34,7 +34,7 @@ body {
     text-transform: uppercase;
     background:#fff;
 	background-size: cover;
-	background-color: #eaf7ea;
+	background-color:#F1F1F1;
 
 }
 h1,h2,h3,h4,h5,h6{
@@ -54,7 +54,7 @@ h1,h2,h3,h4,h5,h6{
     letter-spacing: 2px;
 }
 .form-w3-agile {
-    background: rgba(4, 4, 4, 0.56);
+    background: #446;
     -webkit-box-shadow: 0px 35px 44px -22px rgba(0,0,0,0.72);
     -moz-box-shadow: 0px 35px 44px -22px rgba(0,0,0,0.72);
     box-shadow: 0px 35px 44px -22px #1f181b;
@@ -133,7 +133,7 @@ input[type="submit"] {
     -ms-transition: 0.3s all;
 }
 input[type="submit"]:hover{
-    background: #df5799;
+    background: #E74C3C;
 	color:#ffffff;
 	transition: 0.3s all;
     -webkit-transition: 0.3s all;
@@ -149,7 +149,7 @@ input[type="submit"]:hover{
 	text-transform: none;
 }
 .p-bottom-w3ls a{
-    color: #df5799;
+    color: #E74C3C;
 	outline:none;
 	text-decoration:none;
 }
@@ -165,7 +165,7 @@ input[type="submit"]:hover{
 }
 .contact-form1 {
     padding: 60px 40px; 
-    background: #444;
+    background: #446;
 }
 #small-dialog, #small-dialog1, #small-dialog2 {
     max-width: 541px;
@@ -261,7 +261,7 @@ label p {
 @media(max-width:1366px){
 	.contact-form1 {
 		padding: 50px 35px;
-		background: #444;
+		background: #446;
 	}
 	.form-sub-w3 input[type="text"] {
 		width: 88%;
